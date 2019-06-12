@@ -1,0 +1,244 @@
+#	scene prototype
+#
+#
+
+<1
+	<map
+	0 -200
+	600 720
+	maps/act_one/grotte.txt
+	>
+	<NPC
+	>
+	<MONSTER
+		wolf1 5 5
+	>
+>
+<2
+	<map
+	-757 -41
+	1070 360
+	maps/act_one/map.txt
+	>
+	<NPC
+		0 img/chara2.png 1 4 1000 1000 0
+		1 img/chara2.png 7 0 16 9 0
+		2 img/chara2.png 7 4 4 48 0
+		3 img/chara2.png 1 4 42 13 0
+	>
+	<MONSTER
+	>
+>
+<3
+	<map
+	-40 -120
+	325 479
+	maps/act_one/caserne.txt
+	>
+	<NPC
+		0 img/military1.png 1 4 1000 1000 0
+		6 img/military1.png 1 0 22 10 0
+		7 img/military1.png 4 0 22 13 0
+	>
+	<MONSTER
+	>
+>
+<4
+	<map
+	-40 -40
+	145 180
+	maps/act_one/town.txt
+	>
+	<NPC
+		0 img/chara2.png 1 4 1000 1000 0
+		4 img/chara2.png 10 0 12 5 1 7 1 2 3 4 5 6 7
+		8 img/military1.png 7 0 39 6 0
+		9 img/military1.png 7 0 39 11 0
+		10 img/military1.png 7 0 30 11 0
+		11 img/military1.png 7 0 30 14 0
+		12 img/chara2.png 7 4 10 10 0
+		42 tileset/dungeon.png 0 0 3 11 2
+	>
+	<MONSTER
+	>
+>
+<5
+	<map
+	-40 -97
+	31 362
+	maps/act_one/gate.txt
+	>
+	<NPC
+	>
+	<MONSTER
+		orc1 18 10
+		orc1 20 10
+		orc1 30 17
+		orc2 30 19
+	>
+>
+<6
+	<map
+	-40 -115
+	646 401
+	maps/act_one/intro.txt
+	>
+	<NPC
+	>
+	<MONSTER
+	>
+>
+<7
+	<map
+	-148 -2516
+	682 720
+	maps/act_one/castle_entrance.txt
+	>
+	<NPC
+	>
+	<MONSTER
+		orc1 10 9
+		orc1 20 9
+		orc2 14 5
+		orc1 26 28
+		orc1 30 27
+		orc1 20 40
+		orc1 16 40
+		orc2 16 60
+	>
+>
+<8
+	<map
+	-106 -559
+	682 720
+	maps/act_one/castle.txt
+	>
+	<NPC
+		42 tileset/dungeon.png 0 0 16 8 2
+	>
+	<MONSTER
+		orc1 10 10
+		orc2 20 6
+		orc1 20 20
+		orc1 28 30
+	>
+>
+<9
+	<map
+	-52 -319
+	682 720
+	maps/act_one/boss_castle.txt
+	>
+	<NPC
+		0 img/chara2.png 1 4 1000 1000 0
+		13 img/military1.png 10 0 10 5 0
+		14 img/military1.png 10 0 8 6 0
+		15 img/chara2.png 10 4 6 5 0
+	>
+	<MONSTER
+		boss1 18 9
+	>
+>
+<10
+	<map
+	-757, -517
+	620 300
+	maps/act_two/military_camp.txt
+	>
+	<NPC
+		0 img/military1.png 1 4 1000 1000 0
+		17 img/military1.png 7 0 28 15 0
+		18 img/military1.png 7 0 20 12 0
+		19 img/orc1.png 1 0 21 7 0
+		20 img/military1.png 1 0 27 8 0
+		21 img/npc1.png 1 0 8 12 0
+		22 img/npc2.png 1 0 6 14 0
+		23 img/military1.png 7 0 50 20 0
+		24 img/military1.png 7 0 50 24 0
+		42 tileset/dungeon.png 0 0 5 28 2
+	>
+	<MONSTER
+	>
+>
+<11
+	<map
+	0 0
+	800 400
+	maps/act_two/forge.txt
+	>
+	<NPC
+		16 img/chara2.png 1 0 16 10 1 7 13 14 3 4 5 6 7
+	>
+	<MONSTER
+	>
+>
+<12
+	<map
+	-355 -517
+	40 320
+	maps/act_two/forest_entrance.txt
+	>
+	<NPC
+	>
+	<MONSTER
+		orc1 31 19
+		orc1 6 23
+		orc1 7 19
+		orc2 20 4
+	>
+>
+<13
+	<map
+	-160 -1717
+	40 40
+	maps/act_two/forest_camp.txt
+	>
+	<NPC
+		25 img/npc1.png 4 4 3 16 0
+	>
+	<MONSTER
+		orc1 19 54
+		orc1 22 54
+		orc2 19 25
+		orc2 27 25
+		orc2 23 21
+		orc1 19 7
+		orc1 23 7
+		orc1 27 7
+		orc2 29 35
+		orc1 15 35
+		orc1 11 44
+	>
+>
+<14
+	<map
+	-40 -997
+	80 80
+	maps/act_two/deep_wood.txt
+	>
+	<NPC
+		42 tileset/dungeon.png 0 0 21 5 2
+	>
+	<MONSTER
+		wolf1 13 35
+		wolf1 13 16
+		wolf1 18 16
+		wolf1 14 3
+	>
+>
+<15
+	<map
+	-40 -517
+	320 280
+	maps/act_two/boss_wood.txt
+	>
+	<NPC
+		0 img/elf1.png 1 4 1000 1000 0
+		26 img/elf1.png 7 4 500 8 0
+		27 img/elf1.png 10 4 500 14 0
+		28 img/elf1.png 7 4 500 12 0
+	>
+	<MONSTER
+	 	ent_boss 15 16
+	>
+>

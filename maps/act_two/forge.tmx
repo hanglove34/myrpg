@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-up" width="32" height="18" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="inside" tilewidth="16" tileheight="16" tilecount="1680">
+  <image source="../../tileset/inside.png" width="768" height="560"/>
+ </tileset>
+ <tileset firstgid="1681" name="ff_master_tile_sheet" tilewidth="16" tileheight="16" tilecount="2132">
+  <image source="../../tileset/ff_master_tile_sheet.png" width="656" height="832"/>
+ </tileset>
+ <tileset firstgid="3813" name="collision" tilewidth="16" tileheight="16" tilecount="1">
+  <image source="../../tileset/collision.png" width="16" height="16"/>
+ </tileset>
+ <layer name="sol1" width="32" height="18" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4B4MIuZgWEekXgaM/XtnwM00xlIu6BhQUZUvisQT6eC/ej+XQDExUDxEjTsyIjKL6WS/ej+BflrPtCuBWh4IRp/ESP17Ef2L8hfC5mJw9SyfzGQXgLFSwfA/lkMqBjdnp3AsN4KxHsZB8b+7UB7NwHxnmFo/xSgGVPRMDqA2T8KRgGpAADUmFKx
+  </data>
+ </layer>
+ <layer name="sol2" width="32" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAoGH5jCzMAwlQCeywxROxNNfDLzwLp9FAx+AAA/xwjy
+  </data>
+ </layer>
+ <layer name="decord1" width="32" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2D4gCoWBoZqFtracRLJ/HNodq0C8ldT2X42oHnsQMwBNfcnkvn/kNgxrNS1FwbMgHaYA7EF1C5NJHv0kNg9NLI/DWhvOhBnQO3/BLTnMxB/wWKfJxsDgxcQe7NRz/5pQHunA/EMIJbiZGBoAprdDMQtWOyghf2kAFrZPxPo91lEpOtKoL1VQFw9QP4fBaOAFAAAji0VYQ==
+  </data>
+ </layer>
+ <layer name="decord2" width="32" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjALqAEk2BgYpIJZmo50dHKwQmpUVu3wAB+3sJga85qS+mZksDAxZLNQ3dxSMgpEMAPXuAp8=
+  </data>
+ </layer>
+ <layer name="collision" width="32" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgxU85aMOpsR+ariJ2vaTop9S+ynxE7XsJ8Vd1A5/QnGAzqal/cSYTQv7SQlbeoQ/qW6mhv2UuIUa9g+k/oEqf0cB7QEApbl7Zw==
+  </data>
+ </layer>
+ <layer name="event" width="32" height="18" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGAbngKd9Au2AUkAMAqqkA9A==
+  </data>
+ </layer>
+</map>

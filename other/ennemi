@@ -1,0 +1,62 @@
+# fichier contenant les ennemis
+#  Protoype :
+# num>
+#	path,
+#	rect{0,0}
+#	armor
+#	hp
+#	atq
+#	spd
+#	crit
+# <
+#
+
+wolf1>
+	img/monster_wolf1.png
+	140,142
+	1
+	60
+	3
+	2
+	5
+<
+
+orc1>
+	img/orc1_m.png
+	128,155
+	2
+	40
+	2
+	2
+	5
+<
+
+orc2>
+	img/orc2.png
+	128,155
+	2
+	50
+	3
+	2
+	5
+<
+
+boss1>
+	img/boss1.png
+	128,155
+	2
+	150
+	4
+	2
+	5
+<
+
+ent_boss>
+	img/boss2.png
+	128,155
+	2
+	250
+	7
+	2
+	5
+<

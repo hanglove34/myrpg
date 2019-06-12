@@ -1,0 +1,92 @@
+
+1
+P:3:y:-1
+D:P:3:Hello and welcome in the world of Elkia, you are in the tutorial where you will learn the basics.
+D:P:3:First of all, you need to know how to defend yourself in this dangerous world. Press [SPACE] to attack and [E] to cast a spell, you can move by pressing [Z] [Q] [S] [D].
+D:P:3:To interact with the differents NPCs and the items on the ground, press [Return].
+D:P:3:To open your inventory press [I] and to open your quest book press [L]. You will find in your inventory all your statistics and your items.
+>
+
+2
+J:x:2
+D:P:7:Hang in there, man, you will get through this
+D:P:6:Argh... I will make them pay !
+P:7:x:-1
+D:P:7:Soldier, We are getting attacked by enemies, we need back up outside, fast !
+P:7:x:1
+>
+
+3
+D:P:12:Here you are, come here, fast !
+P:12:x:-4
+P:10:x:1;P:11:x:1;P:8:x:1;P:9:x:1
+P:12:y:-2
+D:P:12:Follow me, I'll explain you on the way !
+P:12:x:2;J:y:5
+P:12:x:6;J:x:9
+P:12:x:2
+D:P:12:We have been attacked by surprise by these little scums ! They killed a lot of people in a short time !
+P:12:y:2
+P:12:x:4;J:y:3
+P:12:x:7;J:x:11
+P:12:x:-1
+D:P:12:We are in the last safe place in the city. We have to get it back, we sent soldiers to take back the door but we have no news.
+P:12:y:-2
+P:12:x:2;J:y:-2
+P:12:x:8;J:x:9
+P:12:x:1
+D:P:12:We need to send back up, we are enough here.
+P:12:x:-1
+D:P:12:We need you to help them getting back the door and save the King ! Be careful, the enemies are ruthless
+>
+
+4
+J:y:-4
+D:P:15:Be careful soldier, it is their chief, he slaughtered almost all our army
+>
+
+5
+D:P:15:What a great fight, you are the hero of this city, soldier !
+P:15:x:-2
+D:P:15:However, even if the city is now saved, we are not fully safe.
+P:15:x:6
+D:P:15:You are going to chase them, we need to know more of them ! It won't be hard for you to follow them.
+P:15:x:-2
+P:15:y:1
+D:P:15:Take a few men, good luck !
+D:P:15:Long life to the Kingdom of Elkia !!
+>
+
+6
+P:23:x:-4;P:24:x:-2
+P:23:y:1;P:24:y:-2
+D:P:23:What is happening here !?
+P:23:x:-6;P:24:x:-6
+P:23:x:-1;P:24:y:-1
+P:23:x:-12;P:24:x:-12;J:x:-16
+P:23:x:-4;P:24:x:-3;P:20:x:-2;J:y:1
+J:x:-9;P:20:y:8
+D:P:20:Finally ! Back up ! ... How is that, you're not here for us ? Didn't you receive our SOS ?
+D:P:20:WHAT !? The capital has been devastated !? That's why we didn't have back up...
+D:P:20:What happened here ?
+J:y:-9;P:20:y:-6
+P:20:y:1
+D:P:20:You see that monster. It has been a few days that they attack us from the West except yesterday when they came from the Est
+D:P:20:But wait, is it what you were chasing ?
+D:P:20:This means that they were more than one group !! This means that if we didn't stop them here, nobody knows what they would have done !
+D:P:20:I am afraid we don't have much time and they are too many...
+D:P:20:Their camp is West in the woods of Disoom ! You need to scout there to know what we will have to face but don't fight, ok ?
+D:P:20:However, there is something strange, if they were so many, why didn't they flood us with all their army ?
+D:P:20:They are hiding something
+>
+
+7
+J:y:-4
+P:27:y:2
+D:P:27:Hello, my name is Faessir, I am an elf. In a first place, we would like to thank you for repelling these creatures and at the same time releasing their torments.
+D:P:27:Unfortunately, your presence here isn't welcome, I am afraid you have to leave...
+D:P:27:What are these things ?
+D:P:27: ...
+D:P:27:The vestiges of a past that we thought gone forever...
+D:P:27:Thank you for playing to the demo of Elkia, you are now free to explore the world or to replay the game
+>

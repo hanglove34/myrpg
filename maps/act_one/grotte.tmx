@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="32" height="24" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="cave_tileset.png" tilewidth="16" tileheight="16" tilecount="128">
+  <image source="../../tileset/cave_tileset.png" width="128" height="256"/>
+ </tileset>
+ <tileset firstgid="129" name="cave2_tileset.png" tilewidth="16" tileheight="16" tilecount="256">
+  <image source="../../tileset/cave2_tileset.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="385" name="water.png" tilewidth="16" tileheight="16" tilecount="2805">
+  <image source="../../tileset/water.png" width="816" height="880"/>
+ </tileset>
+ <tileset firstgid="3190" name="collision.png" tilewidth="16" tileheight="16" tilecount="1">
+  <image source="../../tileset/collision.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="3191" name="dungeon" tilewidth="16" tileheight="16" tilecount="1479">
+  <image source="../../tileset/dungeon.png" width="816" height="464"/>
+ </tileset>
+ <layer name="sol" width="32" height="24">
+  <data encoding="base64" compression="zlib">
+   eJzFls9OFEEQxusyeyI7Z9QZ9MDBqDFAYmLwH5L4BxL1yJGn4CEAufA0LHSzHsSnAYIn8WRVuiv78U2PLBc4fOmZ3un6VdVU1ezWjMjWHWpnKPJDFW9Z42Fim3ZV72U6vVKt9ej1lDZM28Tvs8l6rDquReZ1Dbo2uh7pOlItTGljrcA3W65YX713NZlvvMM6rb6/pFqWdN2q7ufrkH2LZJ/5J5XIryrFFeG5cT7vnJeqRUl8t+3s1cx2ObfJvpyCD8y/VPbfanLunnR9Nhsr2Yc3qreqd8Bez2eda2tLeyHvMf/pQOTZIP2GOR+B7LfP2YcPqo+qT8D2ONu8noPftjcHzzAffQ6wHud9tGM+fFF9VX3LbM77CGJ9ICmfTQ9/bzg520g3Z5Fyx8+2YDeQv/yMXyMf89CCHc4/x4V2I+QP2c6cVf2sUp2b/sdvKY4ATOwF5GOtxbobr7E3q1TnlwW+zeAXhd7B/h3VE5ZpluJ3nx9SrCfEZr6zV8HeRbaHPcvvJMAMOoC8c6wlcf1zDwWyi+8i1t1+wZp4on28f0M+9hDOnFItHOR9fCdYE7b354b8lvilusdYcU5wzdu95WBxkOZaSczHHGM9IRfzj7k/pzxgDzzK4llQ4s/RHMO50kC+jyjmVrp98rvH5775j98Lszmm3i/Z4ffCa6T7M8gTz98AfJy7+D25qK/WP3/bYw+7NBN5/vg3oBQnxsD/T/DbyDzuUYzne2H+uh8b16iRsq4753ouE95d/vc2/QMVh6LO
+  </data>
+ </layer>
+ <layer name="sol2" width="32" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFAw30Ru3HCi4OsP30AiPdfoMBth8GBjocBtp+swG2fxSMglEwCgY7iOTDFAvHIjYUAABYpQN0
+  </data>
+ </layer>
+ <layer name="decord" width="32" height="24" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBi6wJWRgcGNceDsDwXaHTaA9qcC7U4bQPvpAZgHyH+XBsZaFPBxoB1AJfAciF9Q2UxWRlR6FFAffONnYPjOP9CuGAVDFVwH4hsDaD8typ1RMPAAW5k/Wg+QBwAMMAs/
+  </data>
+ </layer>
+ <layer name="decord2" width="32" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFowA3iBccaBcMHIgdJn6/DsQ3qGzmDx5UmlLQDsQd1DFq2IDD/AwMR/gH2hWjYBSMguEOSCl7sZX51KgH6FUHtNHBjqECALPiC28=
+  </data>
+ </layer>
+ <layer name="collision" width="32" height="24" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztlkEOwCAIBH1A39v390qIu2URtIeSmFgEBwW1Y/yiyH3x1jEnYqDvzDxKrJkxZsv2z+u6+EgXZaj5j6wf7Ye1zdZeNv+W6fsR+wq+9Vk5c7a/cn4VplLrHWzGmuWo8k5jLKRbYb/ZePvT/EpR+dUSeZc6+ZYbiW+3fI2/OwZWH4ov0zF/dNep/05Z/9n7faI9o4BiAw==
+  </data>
+ </layer>
+ <layer name="event" width="32" height="24" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztw7EJAAAIA7Ae4L3e7+zkLCSQBAAAuHTtXw2V7wIJ
+  </data>
+ </layer>
+</map>

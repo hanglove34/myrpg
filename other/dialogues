@@ -1,0 +1,145 @@
+<0
+	"if you read this in game there is a big problem !";
+>
+
+<1
+	"It's a lovely day, isn't it ?"?"Yes"?"No";
+	1"That's true ! amque non umbratis fallaciis res agebatur";
+	2"I disagree armatis omne circumdedit. ingressusque obscuro iam die";
+	Q1"Welcome to the Kingdom of Elkia, a world full of mysteries but before you start your adventure let me explain you the basics. You can interact will all the NPCs that will give you quests that you're able to refuse. Do you accept mine ?"?"Of course"?"No";
+	1"In order to progress in this world, you will have to fight, but not without weapon. My friend will give you one, you can probably find him near a river.";
+	2"See you later !";
+	q1"Find a weapon, my friend near the river waits you !";
+	Q2"Well done you can defend yourself now ! Are you ready ?"?"Yes"?"No";
+	1"Good luck!";
+	2"Come back later then.";
+	q2"Be careful in the cave.";
+	Q3"Well done, you can now leave this jungle. Follow the path, it will lead you to the Kingdom of Elkia !"?"I am ready"?"Not now";
+	1"Good luck!";
+	2"Come back when you're ready.";
+	q3"Follow the path to leave this jungle.";
+>
+
+<2
+	"Captis his multiplicium navigerum suapte plurimis captiem nisi domo ad quantum M virilem.";
+	e1"I was waiting for you, here is your weapon, good luck !";
+>
+
+<3
+	"Press [SPACE] to attack, To open the inventory press [I], [ESC] to pause the game.";
+>
+
+<4
+	"Welcome to my shop !";
+>
+
+<5
+	"I am a clone !";
+>
+
+<6
+	"I will fight when I am healed !";
+>
+
+<7
+	"There are already too many victims...";
+>
+
+<8
+	"They shall not pass !";
+>
+
+<9
+	"For Elkia !";
+>
+
+<10
+	"For the King !";
+>
+
+<11
+	"I am ready to fight !";
+>
+
+<12
+	"The battle has just begun !";
+	Q4"We need you to find the King and save him from their boss ! Can I count on you ?"?"I'll do it"?"Not now";
+	1"Fine, go into the castle to save the king !";
+	2"Come back later."
+	q4"What are you waiting for, the King is being attacked !";
+>
+
+<13
+	"The battle has just begun !";
+>
+
+<14
+	"What a fight !";
+>
+
+<15
+	"We will make them regret this assault !";
+>
+
+<16
+	"I forge the best swords of the country.";
+>
+
+<17
+	"They are so many...";
+>
+
+<18
+	"We are the last hope to defend the fort.";
+>
+
+<19
+	"Somre the zuark bakc.";
+>
+
+<20
+	"This fort must not fall !";
+	Q5"Find the boss of all these creatures and defeat him ! Can you do that for us ?"?"Yes"?"No";
+	1"Fine I count on you.";
+	2"Come back later.";
+	q5"Did you defeat their boss already ?";
+>
+
+<21
+	"They killed so many people.";
+>
+
+<22
+	"Find my son please !";
+>
+
+<23
+	"Be ready to fight !";
+>
+
+<24
+	"They are all dead, I can't believe it...";
+>
+
+<25
+	"Thanks for saving me. But be careful, this forest keeps a lot of secrets, a hundred of them have been killed the last few days.";
+>
+
+<26
+	"Elea anor es";
+>
+
+<27
+	"sil valum de .. Run !";
+>
+
+<28
+	"You have no business here.";
+>
+
+
+<42
+	"Do you want to save your progress ?"?"Yes"?"No";
+	1"Your progress has been saved.";
+	2"OK, come back later.";
+>

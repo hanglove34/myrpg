@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-up" width="35" height="27" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="inside" tilewidth="16" tileheight="16" tilecount="1680">
+  <image source="../../tileset/inside.png" width="768" height="560"/>
+ </tileset>
+ <tileset firstgid="1681" name="collision" tilewidth="16" tileheight="16" tilecount="1">
+  <image source="../../tileset/collision.png" width="16" height="16"/>
+ </tileset>
+ <tileset firstgid="1682" name="dungeon" tilewidth="16" tileheight="16" tilecount="1479">
+  <image source="../../tileset/dungeon.png" width="816" height="464"/>
+ </tileset>
+ <tileset firstgid="3161" name="ff_master_tile_sheet" tilewidth="16" tileheight="16" tilecount="2132">
+  <image source="../../tileset/ff_master_tile_sheet.png" width="656" height="832"/>
+ </tileset>
+ <layer name="sol1" width="35" height="27">
+  <data encoding="base64" compression="zlib">
+   eJzt1zsKgDAQRdGJcSVRFERcp58duEwrv+CIFkMKZZBo84rLgzDgaXUxkRMN9rtcfN9xU/BWAcseDNJS8o4R0cTN18r8N83NwuVKy2KIVq6w58r8N83NZvSWmrfh2mtl/pvmprN6S0/hggUWWGCBBRZYYIEFlj8taWBLorBo8r/z5j9yB4Wk1vk=
+  </data>
+ </layer>
+ <layer name="sol2" width="35" height="27" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAoIAzE22qofBaNgFNAXjObpUTAKhiZQYWFgUCUC67Jg6tUkQp8yFn2DDQAAwIMD1w==
+  </data>
+ </layer>
+ <layer name="decord1" width="35" height="27" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFAwFkWBgYZFkoN0cOaIY8HnP8gHL+BOzxAcr7QtWcpIKb0EEKK4JOBeI0IE5nRRXHBn5S2S3OQPOmQO0C0VOBeBoQT2dFFccGNHGIk+sOfzYGhgAicCAb9eyFATdeBgZ3ILZlgWB7IG5gI4wb0dyizEu5G0B2O0LdMFAA5gYQcBxAd+AC/PzY2cQAFQriiBTgTYI9XhS4iVT/4wMCVDSrjMR8ClP/mwfhFodBkvbo5RaY3/HJUTOOKAUgt1CSdqkNBpNbhgv4hZQmyc3TwxlQUp9Q0l4YBaMAFwAA3e4hrg==
+  </data>
+ </layer>
+ <layer name="decord2" width="35" height="27" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4B2QJhloF0AASB3yLMxMCgQgRXZqG+/LC8DgxwQ87JAMD9SuFzHEkZXaRBuMDeA7BZEcwO9AcwNICA4SNIIMnjGh509mIASL/FqFUhQiw6o6f/nVDTLjcR8iq6emm6hFIy6BTsAueUHz0C7AgEUKchHo4AwoDRPj4JRMApGFgAACJEPPw==
+  </data>
+ </layer>
+ <layer name="collision" width="35" height="27" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztlNEKwCAIRXva//fHexpUZHnt1tzwghBlekgtpVr5OmczaXwYChZ7HhaLl36RYjz7LBZtjJHfKgtzZlEWS321Qlja/OzZQlmks976DZbRHZTDwrKrT5g10ubexbKqYPHPUsb3wILk+AoL6w/827sES7BIfies1Q3iZnCq
+  </data>
+ </layer>
+ <layer name="event" width="35" height="27" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztw6ENAAAIA7Ap/udjNJrg2qQJAAAA/OnaLwaz1AJd
+  </data>
+ </layer>
+</map>
